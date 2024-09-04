@@ -2,8 +2,6 @@
 
 **Hey there, curious coder!** 👋 Welcome to my digital playground where code comes to life and dreams get compiled!
 
-![Animated Rocket](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
 ## Who Am I? 🤔
 
 I'm Geetanjay, a code wizard 🧙‍♂️ by day and a coffee-fueled dreamer by night 🌙. When I'm not busy turning caffeine into code, you'll find me cooking up some crazy ideas and building stuff that (hopefully) doesn't break the internet. 
@@ -38,11 +36,8 @@ I'm Geetanjay, a code wizard 🧙‍♂️ by day and a coffee-fueled dreamer by
 You can find me on the internet doing nerdy stuff. Ping me, and let's create something awesome together!
 
 - **LinkedIn**: [Geetanjay Manik](https://www.linkedin.com/in/geet-manik/)
-- **Twitter**: [@Geet_Manik](https://twitter.com/Geet_Manik)
-- **Website**: [geetmanik.dev](https://geetmanik.dev) (Coming Soon!)
 
-![Animated Robot](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
----
+
 
 "Code is like humor. When you have to explain it, it’s bad." - *Cory House*
